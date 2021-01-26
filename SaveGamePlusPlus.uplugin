@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SaveGamePlusPlus",
+	"Description": "Unlocks the power of Unreal's SaveGame flag on blueprint variables and allows entire UObjects to be saved and loaded on demand.",
+	"Category": "Serialization",
+	"CreatedBy": "Jayde Cohen",
+	"CreatedByURL": "https://github.com/JaydeCohenDev/SaveGamePlusPlus",
+	"DocsURL": "https://github.com/JaydeCohenDev/SaveGamePlusPlus",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/JaydeCohenDev/SaveGamePlusPlus",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SaveGamePlusPlus",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
